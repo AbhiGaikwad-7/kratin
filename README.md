@@ -2,12 +2,12 @@
 
 <p> 
 Kratin Medcare In All In One Online Platform Where We Provide All Health Related Facilities On Your Screen.
-In this prototype i have used technologies as follows:- 
-1) <b>HTML </b><br>
-2) <b>CSS</b> <br>
-3) <b>JAVASCRIPT </b><br>
-4) <b>FIGMA </b><br>
-5) <b>FLEXBOX</b> <br>
+In this prototype i have used technologies as follows:- <br>
+<b>1) HTML </b><br>
+<b>2) CSS</b> <br>
+<b>3) JAVASCRIPT </b><br>
+<b>4) FIGMA </b><br>
+<b>5) FLEXBOX</b> <br>
 
 
 
