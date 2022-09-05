@@ -1,7 +1,7 @@
 <h1 align="center"> Kratin Website  </h1><br>
 
 <p> 
-Kratin Medcare In All In One Online Platform Where We Provide All Health Related Facilities On Your Screen.
+Kratin Medcare Is All In One Online Platform Where We Provide All Health Related Facilities On Your Screen.
 In this prototype i have used technologies as follows:- <br>
 <b>1) HTML </b><br>
 <b>2) CSS</b> <br>
